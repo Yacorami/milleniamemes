@@ -1,1 +1,3 @@
 /src/vendor/
+docker/database/data
+src/composer.lock
