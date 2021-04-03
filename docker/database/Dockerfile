@@ -1,4 +1,4 @@
-FROM mariadb:latest
+FROM mysql:latest
 
 CMD ["mysqld"]
 
